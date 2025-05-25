@@ -1,9 +1,10 @@
 # ZEEG - Neuro Auto Reading
+
+![Image 1](./logo.jpg)
+
 ***ZEEG (Z? Entropic Encephalus Gram) è un elettro encefalo gramma progettato, costruito e testato da me***. <br/>
 Lo scopo è quello di creare una macchina quanto più precisa e attendibile possibile utilizzando materiali fai da te e componenistica accessibile. Nella repository si troveranno tutte le componenti essenziali per costruire la macchina. 
 Un'altro scopo è quello di poter osservare le interazioni nervose (misurabili) del cervello per auto-indagare sul proprio stato mentale (da qui viene Auto Reading).  
-
-![Image 1](./logo.jpg)
 
 ## Tabella dei Contenuti
 * [Introduzione](#introduzione)
