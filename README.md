@@ -28,7 +28,7 @@ La struttura è basata su questo principio:
   - Cognitiva (Concetrazione, Lettura, Ragionamento)
   - Emotiva (Rabbia, Gioia, Tristezza)
 
-### Tale struttura però è ancora prototipica perchè non ha nessun sostegno chiaro dal punto di vista scientifico. <br/>
+Tale struttura però è ancora prototipica perchè non ha nessun sostegno chiaro dal punto di vista scientifico. <br/>
 Un'altro tema su cui mi piacerebbe indagare è il ruolo della religione e della dottrina sul comportamento del cervello e vorrei studiare i possibili effetti che hanno la preghiera e la fede sul cervello umano. Se tali abitudini e *stati mentali* hanno un'effetto così fenomenologicamente osservabile (dal punto di vista psicologico) all'esterno, ***mi aspetto che vi sia un'evidenza misurabile anche sotto al tappeto***.
 
 # Panoramica
