@@ -31,7 +31,7 @@ La struttura è basata su questo principio:
 Tale struttura però è ancora prototipica perchè non ha nessun sostegno chiaro dal punto di vista scientifico. <br/>
 Un'altro tema su cui mi piacerebbe indagare è il ruolo della religione e della dottrina sul comportamento del cervello e vorrei studiare i possibili effetti che hanno la preghiera e la fede sul cervello umano. Se tali abitudini e *stati mentali* hanno un'effetto così fenomenologicamente osservabile (dal punto di vista psicologico) all'esterno, ***mi aspetto che vi sia un'evidenza misurabile anche sotto al tappeto***.
 
-# Panoramica
+## Panoramica
 Questa sezione tratterà della gestione più generale possibile del lavoro. Occorre precisare che nessuna azienda o organizzazione finanzia il progetto, tantomeno qualche collaboratore. Ogni sezione, all'alpha all'omega del progetto è interamente curata da me. La panoramica servirà quindi a dare una rapida occhiata alla materia del progetto, a partire da come è progettato fino alle considerazioni personali e previsioni future. I costi saranno un tema in divenire, cambiando in base alla scelta dei materiali a seconda della release.
 
 ### Piano del progetto
